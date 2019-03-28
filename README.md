@@ -6,6 +6,19 @@ CallPass is a passcode generation and validation tool for APRS-IS.
 
 There are two tools included in this module, `Get-APRSCallPass` and `Test-APRSCallPass`. Use PowerShell's help functionality to find usage information.
 
+## Installing
+You will be able to install this package from [PowerShell Gallery](https://www.powershellgallery.com) using the command below:
+
+```PowerShell
+Install-Module CallPass
+```
+
+If installing just for your personal profile, use:
+
+```PowerShell
+Install-Module CallPass -Scope CurrentUser
+```
+
 ## License
 GNU GENERAL PUBLIC LICENSE Version 2. See the [COPYING](COPYING) file for detail.
 

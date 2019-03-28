@@ -12,7 +12,7 @@
 RootModule = 'CallPass.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.0.1'
 
 # Supported PSEditions
 CompatiblePSEditions = @("Core", "Desktop")
@@ -92,7 +92,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = @('amateur radio', 'APRS', 'Automatic Packet Reporting System', 'radio', 'packet')
+        Tags = @('AmateurRadio', 'APRS', 'AutomaticPacketReportingSystem', 'Radio', 'Packet')
 
         # A URL to the license for this module.
         LicenseUri = 'https://github.com/hsaito/CallPass/blob/master/COPYING'
